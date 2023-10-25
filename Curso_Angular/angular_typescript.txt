@@ -1,0 +1,17 @@
+*APRENDIENDO TYPESCRIPT EN VITE
+npm create vite --> Ponerle nombre proyecto
+-te metes en la carpeta con cd
+npm install
+npm run dev --> levanta la aplicacion de vite
+*ANGULAR
+ng new name project-->crear proyecto
+ng serve-->poner la aplicacion en ejecucion
+"start": "ng serve -o",->le pones el -o y y ya puedes poner npm star y se inicia la aplicaion
+ng build-->crea los archivos minimos que necesitas para subirlo
+ng g component[name]-->generar componente
+SUBIR ANGULAR A GIT
+1-git Init
+2-git add .
+3-
+4-
+5-
